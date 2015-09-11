@@ -1,1 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+  In this time create information about files in new repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  Staging area contains information about changin files
+  Working directory contain files with changes
+  Repository contain changes between commits
